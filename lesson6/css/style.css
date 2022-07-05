@@ -1,0 +1,17 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    width: 100 px;
+
+}
+
+td {
+    height: 50px ;
+}
+
+caption{
+    text-align: start;
+}
