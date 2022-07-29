@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-.form{
+.form {
     border: 1px solid black;
     border-radius: 20px;
     width: 350px;
@@ -20,13 +20,13 @@
     
 }
 
-.form_title{
+.form_title {
     width: 100%;
     margin: 15px;
     padding-left:10px ;
 }
 
-.form_input{
+.form_input {
     width: 306px;
     margin: 2px 0;
     padding: 14px 18px;
